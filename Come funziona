@@ -1,0 +1,24 @@
+# Gioco del Tris in Java
+
+Questo progetto implementa il classico gioco del Tris (Tic-Tac-Toe) utilizzando il linguaggio Java. L’obiettivo del gioco è allineare tre simboli uguali (X o O) in una riga, colonna o diagonale su una griglia 3x3.
+
+## Funzionalità
+
+- Modalità di gioco per due giocatori.
+- Modalità di gioco contro un AI
+- Interfaccia a riga di comando semplice e intuitiva.
+- Controllo automatico delle condizioni di vittoria o pareggio.
+- Possibilità di regolare la difficoltà dell'IA
+
+## Come eseguire il programma
+
+1. Scaricare e avviare il programma .exe
+2. Scaricare il file .Jar e aprirlo Java
+
+## Requisiti
+
+- Java 23 o superiore installato sul sistema.
+
+## Note
+
+Questo progetto è pensato a scopo didattico per esercitarsi con la programmazione Java e la gestione della logica di gioco.
